@@ -1,0 +1,25 @@
+/*test massage!!!*/
+body{
+	font-size: 18px;
+}
+.header{
+	margin-top: 60px;
+}
+.footer{
+	margin-bottom: 60px;
+}
+div{
+	width: 800px;
+	/*border-bottom: 1px solid #C0C0C0;*/
+	margin: 30px auto;
+
+}
+img{
+	margin:10px 275px;
+}
+p{
+	margin: 10px 15px ;
+}
+li{
+	margin: 7px -5px;
+}
